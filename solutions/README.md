@@ -4,6 +4,7 @@ This repository contains my solutions to additional data explorations at the end
 
 Solutions are presented via Jupyter Notebooks files - *.ipynb.
 
-- project one
+- Guided Project: Analyzing Thanksgiving Day Menu
+  Explorations: Analyzing Thanksgiving Day Menu
 - project two
 - etc
