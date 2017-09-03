@@ -1,4 +1,4 @@
-# DataQuest Project Solutions
+## DataQuest Project Solutions
 
 This repository contains my solutions for Guided Projects as well as Additional Data Explorations for DataQuest Missions.
 
