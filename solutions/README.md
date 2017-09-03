@@ -4,6 +4,6 @@ This repository contains my solutions for Guided Projects as well as Additional 
 
 Solutions are presented via Jupyter Notebooks files - *.ipynb.
 
-- Analyzing Thanksgiving Day Menu: [Guided Project](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Project_Thanksgiving_menus_analysis.ipynb) | [Data Exploration](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Project_Thanksgiving_menus_analysis.ipynb)
+- Thanksgiving Day Menu: [Mission Solutions](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Project_Thanksgiving_mission.ipynb) | [Data Exploration](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Project_Thanksgiving_Exploration.ipynb)
 - project two
 - etc
