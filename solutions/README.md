@@ -2,6 +2,8 @@
 
 This repository contains my solutions for Guided Projects as well as Additional Data Explorations for [Dataquest Missions](https://www.dataquest.io).
 
+Also for the ease of reproduction, relevant data files are placed into data folder. Additionally references to the source files can be found int he projects themselves.
+
 - Gun Deaths in the US: [Mission Solutions and Data Exploration](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Gun_Deaths_in_the_US_Exploration.ipynb)
 - Thanksgiving Day Menu: [Mission Solutions](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Project_Thanksgiving_mission.ipynb) | [Data Exploration](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Project_Thanksgiving_Exploration.ipynb)
 - College Majors to Salary: [Mission Solutions](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Visualizing_College_Majors_Main.ipynb) | [Data Exploration](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Visualize_College_Majors_Explorations.ipynb)
