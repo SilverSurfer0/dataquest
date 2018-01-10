@@ -10,3 +10,4 @@ Also for the ease of reproduction, files with data placed into `data` folder. Ad
 - College Majors to Gender relations: [Completed Mission](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/College_Majors_to_Gender.ipynb)
 - New York Schools Rank to Districts: [Completed Mission](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/NYC_Schools.ipynb) | [Deep Exploration](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/NYC_schools_exploration.ipynb)
 - Star Wars Episodes - which is best: [Completed Mission](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/StarWars_Survey.ipynb)
+CIA World Factbook - Countries exploration: [Completed Mission](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/CIA%20Factbook.ipynb)
