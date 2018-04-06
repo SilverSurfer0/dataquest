@@ -13,3 +13,4 @@ Also for the ease of reproduction, files with data placed into `data` folder. Ad
 - CIA World Factbook - Countries exploration: [Completed Mission](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/CIA%20Factbook.ipynb)
 - Answering Business Questions with SQL, music store: [Completed Project](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/BusinessRecommendations_chinook.ipynb)
 - Designing a Database with SQL: [Completed Project](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Designing_a_database.ipynb)
+- Movie reviews exploration: [Completed Project](https://github.com/SilverSurfer0/dataquest/blob/master/solutions/Movie_review_exploration.ipynb)
