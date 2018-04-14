@@ -1,7 +1,4 @@
 # Dataquest Study Projects
-```
-{% if page.comments %} • <a href="https://quicksilver0.github.io{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}
-```
 This repository contains my solutions for Guided Projects as well as Additional Data Explorations for [Dataquest Missions](https://www.dataquest.io).
 
 Also for the ease of reproduction, files with data placed into `data` folder. Additional references to the source files can be found in the projects themselves.
